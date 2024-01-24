@@ -11,3 +11,5 @@ sec.innerHTML = (currentTime.getSeconds()<10?"0":"") + currentTime.getSeconds();
 
 },1000);
 
+//this is javascript file of digital clock
+
